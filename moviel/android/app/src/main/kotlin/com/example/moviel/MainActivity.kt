@@ -1,0 +1,5 @@
+package com.example.moviel
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
